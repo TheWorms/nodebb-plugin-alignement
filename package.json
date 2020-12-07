@@ -1,16 +1,29 @@
 {
   "name": "nodebb-plugin-alignment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/am1cable/nodebb-plugin-alignment.git"
+    "url": "https://github.com/theworms/nodebb-plugin-alignment.git"
   },
   "keywords": [
     "nodebb",
     "alignment"
   ],
-  "license": "MIT",
+  "author": [
+    {
+      "name": "am1cable",
+      "license": "MIT",
+      "url": "https://github.com/am1cable"
+    }
+  ],  
+  "contributors": [
+    {
+      "name": "The Worm's",
+      "email": "theworms@theworms.fr",
+      "url": "https://github.com/TheWorms"
+    }
+  ],
   "nbbpm": {
-    "compatibility": "^1.10.x"
+    "compatibility": "^1.16.x"
   }
 }
