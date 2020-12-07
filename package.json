@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-alignement",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/theworms/nodebb-plugin-alignement.git"
@@ -14,7 +14,7 @@
       "name": "am1cable",
       "license": "MIT",
       "url": "https://github.com/am1cable"
-    },    
+    },
     {
       "name": "The Worm's",
       "email": "theworms@theworms.fr",
