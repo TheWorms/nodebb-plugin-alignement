@@ -9,12 +9,14 @@
     "nodebb",
     "alignment"
   ],
-  "contributors": [
+  "author": [
     {
       "name": "am1cable",
       "license": "MIT",
       "url": "https://github.com/am1cable"
-    },
+    }
+  ],  
+  "contributors": [
     {
       "name": "The Worm's",
       "email": "theworms@theworms.fr",
