@@ -4,22 +4,15 @@
 	"description": "Alightment options to basic composer. Align text left, right, center. Float images left/right.",
 	"url": "https://github.com/TheWorms/nodebb-plugin-alignement",
 	"library": "./library.js",
-
-
 	"hooks": [
 		{
-			"hook": "filter:composer.formatting",
-			"method": "composerFormatting"
+			"hook": "filter:composer.formatting", "method": "composerFormatting"
 		},
 		{
-			"hook": "filter:parse.post",
-			"method": "parsePost",
-			"priority": 10
+			"hook": "filter:parse.post","method": "parsePost","priority": 10
 		},
 		{
-			"hook": "filter:parse.raw",
-			"method": "parseRaw",
-			"priority": 10
+			"hook": "filter:parse.raw","method": "parseRaw","priority": 10
 		}
 	],
 	"staticDirs": {
